@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 
         #https://kylog.tistory.com/17
-
+#깃 연동
 def load_image(image_file):
     img = Image.open(image_file)
     return img
